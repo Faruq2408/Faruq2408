@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Faruq
-- 👀 I’m interested in anything data analytics, count me in
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello, I’m Faruq
+- 👀 I’m a data analyst interested in anything data
+- 🌱 I currently possess proficiency in analyzing data using Excel, Sql, PowerBi, and Python
+- 💞️ I’m looking to collaborate on projects to showcase my skills most especially in the Business and Healthcare sector
+- 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
